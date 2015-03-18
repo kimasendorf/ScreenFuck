@@ -1,0 +1,14 @@
+ /*
+ 
+ File: ScreenFuck_Prefix.pch
+ 
+ Version: 1.0
+ 
+ Copyright (C) 2010 ASDF. All Rights Reserved.
+ 
+ */ 
+
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
